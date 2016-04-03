@@ -3,7 +3,7 @@ lock '3.4.0'
 
 set :application, 'jebal'
 set :repo_url, 'git@github.com:hyunjunian/jebal.git'
-set :deploy_to, '/home/deploy/jebal'
+set :deploy_to, '/home/ubuntu/jebal'
 
 
 # Default branch is :master
